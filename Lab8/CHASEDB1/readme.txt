@@ -1,0 +1,7 @@
+ CHASE_DB1 retinal vessel reference dataset
+
+Fraz, Muhammad Moazam [Creator], Remagnino, Paolo, Hoppe, Andreas, Uyyanonvara, Bunyarit, Rudnicka, Alicja R [Creator], Owen, Christopher G [Creator] and Barman, Sarah A [Creator] (2012) CHASE_DB1 retinal vessel reference dataset. [Data Collection]
+Official URL: https://doi.org/10.1109/TBME.2012.2205687
+Lay Summary
+
+A public retinal vessel reference dataset CHASE_DB1 made available by Kingston University, London in collaboration with St. George’s, University of London. This is a subset of retinal images of multi-ethnic children from the Child Heart and Health Study in England (CHASE) dataset. This subset contains 28 retinal images captured from both eyes from 14 of the children recruited in the study. In this subset each retinal image is also accompanied by two ground truth images. This is provided in the form of two manual vessel segmentations made by two independent human observers for each of the images, in which each pixel is assigned a "1" label if it is part of a blood vessel and a "0" label otherwise. Making this subset publicly available allows for the scientific community to train and test computer vision algorithms (specifically vessel segmentation methodologies). Most importantly this subset allows for performance comparisons - several algorithms being evaluated on the same database allows for direct comparisons of their performances to be made.
